@@ -7,6 +7,7 @@
  * Consider leveraging the 'this' keyword. Since a level is not provided, the constructor should also
  * set the player's level to 1 by default.
  *
+ * 
  * The second constructor will use a player's name and level to set the Player object's respective field.
  *
  * These constructors would be called to instantiate the object as seen is a previous lab:
